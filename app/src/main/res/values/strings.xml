@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TLU Job</string>
+    <string name="msg_null_message">Null message</string>
+</resources>
